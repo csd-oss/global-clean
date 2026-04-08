@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "cta": "Objednať"
+  },
+  "hero": {
+    "headline": "Profesionálne upratovanie v Bratislave",
+    "subheadline": "Spoľahlivé, dôkladné a za férové ceny. Postaráme sa o váš domov, aby ste sa vy mohli postarať o seba.",
+    "cta": "Získať cenovú ponuku",
+    "badges": {
+      "delivery": "Doprava zdarma v Bratislave",
+      "vat": "Ceny bez DPH",
+      "guarantee": "Záruka spokojnosti"
+    }
+  },
+  "services": {
+    "sectionTitle": "Naše služby",
+    "sectionSubtitle": "Kompletná starostlivosť o váš domov",
+    "regular": {
+      "title": "Upratovanie bytu",
+      "description": "Pravidelné alebo jednorazové upratovanie bytov od 1 do 6+ izieb. Zahŕňa všetky miestnosti vrátane kuchyne a kúpeľne.",
+      "features": ["Obývačka a spálne", "Kuchyňa a spotrebiče", "Kúpeľňa a WC", "Vysávanie a umývanie podláh"]
+    },
+    "windows": {
+      "title": "Umývanie okien",
+      "description": "Profesionálne umývanie všetkých typov okien — od jednoduchých po panoramatické a výkladky.",
+      "features": ["Všetky typy okien", "Vnútro aj vonku", "Výkladky a balkóny", "Radiátorové panely"]
+    },
+    "additional": {
+      "title": "Doplnkové služby",
+      "description": "Špeciálne čistenie nad rámec štandardného upratovania — rúry, chladničky, žehlenie a ďalšie.",
+      "features": ["Čistenie spotrebičov", "Umývanie riadu", "Žehlenie", "Čistenie podstielok"]
+    }
+  },
+  "howItWorks": {
+    "sectionTitle": "Ako to funguje",
+    "sectionSubtitle": "Tri jednoduché kroky k čistému domovu",
+    "steps": {
+      "1": {
+        "title": "Vyberte službu",
+        "description": "Použite kalkulačku na výber služieb a orientačný výpočet ceny."
+      },
+      "2": {
+        "title": "Pošlite požiadavku",
+        "description": "Vyplňte kontaktný formulár s dátumom a adresou. Ozveme sa vám do 24 hodín."
+      },
+      "3": {
+        "title": "My upraceme",
+        "description": "Náš tím príde v dohodnutom termíne a postará sa o váš domov."
+      }
+    }
+  },
+  "calculator": {
+    "sectionTitle": "Cenová kalkulačka",
+    "sectionSubtitle": "Vypočítajte si orientačnú cenu za naše služby",
+    "tabs": {
+      "regular": "Upratovanie bytu",
+      "windows": "Umývanie okien",
+      "additional": "Doplnkové služby"
+    },
+    "windowsOptional": "Voliteľné – kliknite pre výber",
+    "addonsOptional": "Voliteľné – kliknite pre výber",
+    "rooms": {
+      "label": "Vyberte veľkosť bytu",
+      "1": "1-izbový",
+      "2": "2-izbový",
+      "3": "3-izbový",
+      "4": "4-izbový",
+      "5": "5-izbový",
+      "6+": "6+ izieb"
+    },
+    "windowsLabel": "Vyberte typy okien a zadajte počet kusov",
+    "additionalLabel": "Vyberte doplnkové služby",
+    "quantity": "ks",
+    "windows": {
+      "singleM": "Okno 1-krídlové \"M\" (do 80 cm)",
+      "blindM": "Žaluzie \"M\"",
+      "flyScreen": "Sieťka",
+      "singleL": "Okno 1-krídlové \"L\" (90–120 cm)",
+      "blindL": "Žaluzie \"L\"",
+      "balconyDoor": "Balkónové dvere",
+      "blindDoor": "Žaluzie na dvere",
+      "flyScreenDoor": "Sieťka na dvere",
+      "doubleWing": "Okno 2-krídlové",
+      "shopfront": "Výklady (€/m²)",
+      "tripleM": "Okno 3-krídlové \"M\"",
+      "tripleL": "Okno 3-krídlové \"L\"",
+      "panoramicM": "Okno panoramatické \"M\" (do 80 cm)",
+      "panoramicL": "Okno panoramatické \"L\" (90–120 cm)"
+    },
+    "additional": {
+      "kitchenLine": "Umývanie kuchynskej linky",
+      "radiators": "Hĺbkové čistenie radiátorov",
+      "fridge": "Čistenie chladničky",
+      "freezer": "Umývanie mrazničky",
+      "balcony": "Umývanie balkónov a terás",
+      "extractor": "Čistenie digestora",
+      "oven": "Čistenie rúry",
+      "extraHour": "Hodiny navyše",
+      "ironing": "Žehlenie",
+      "microwave": "Čistenie mikrovlnky",
+      "dishes": "Umývanie riadu",
+      "petBed": "Čistenie podstielky pre zvieratá"
+    },
+    "from": "od",
+    "currency": "€",
+    "total": "Orientačná cena",
+    "disclaimer": "Konečná cena závisí od veľkosti bytu, stupňa znečistenia, množstva políc a ďalších faktorov.",
+    "noVat": "* Ceny bez DPH. Nie sme platitelia DPH.",
+    "cta": "Chcem túto ponuku",
+    "nothingSelected": "Vyberte aspoň jednu položku",
+    "windowsTotal": "Okná spolu",
+    "addonsTotal": "Doplnky spolu",
+    "grandTotal": "CELKOM"
+  },
+  "contact": {
+    "sectionTitle": "Kontaktujte nás",
+    "sectionSubtitle": "Pošlite nám požiadavku a ozveme sa vám do 24 hodín",
+    "fields": {
+      "name": "Meno a priezvisko",
+      "phone": "Telefón",
+      "email": "E-mail",
+      "address": "Mesto / Adresa",
+      "preferredDate": "Preferovaný termín",
+      "message": "Správa / Doplňujúce informácie"
+    },
+    "placeholders": {
+      "name": "Ján Novák",
+      "phone": "+421 9XX XXX XXX",
+      "email": "jan.novak@email.sk",
+      "address": "Bratislava, Staré Mesto",
+      "message": "Napíšte nám čokoľvek, čo by sme mali vedieť..."
+    },
+    "selectedServicesTitle": "Vybrané služby",
+    "required": "Povinné pole",
+    "invalidEmail": "Neplatný e-mail",
+    "submit": "Odoslať požiadavku",
+    "submitting": "Odosiela sa...",
+    "successTitle": "Správa odoslaná!",
+    "success": "Ďakujeme! Vaša správa bola odoslaná. Ozveme sa vám čo najskôr.",
+    "error": "Niečo sa pokazilo. Skúste to prosím znova alebo nás kontaktujte telefonicky.",
+    "note": "* Doprava v rámci Bratislavy je zdarma. Parkovné hradí zákazník.",
+    "trustNote": "Odpovedáme na každú správu do 24 hodín. Doprava v rámci Bratislavy je zdarma.",
+    "trustNoteHighlight": "24 hodín"
+  },
+  "footer": {
+    "tagline": "Profesionálne upratovanie v Bratislave",
+    "address": "Bratislava, Slovensko",
+    "phone": "+421 XXX XXX XXX",
+    "email": "info@globalclean.sk",
+    "hours": "Po–Pi: 8:00–18:00",
+    "contactLabel": "Kontakt",
+    "hoursLabel": "Pracovná doba",
+    "copyright": "© 2026 Global Clean. Všetky práva vyhradené.",
+    "noVat": "Nie sme platitelia DPH."
+  }
+}

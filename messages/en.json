@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "cta": "Book Now"
+  },
+  "hero": {
+    "headline": "Professional Cleaning in Bratislava",
+    "subheadline": "Reliable, thorough, and fairly priced. We take care of your home so you can focus on what matters.",
+    "cta": "Get a Quote",
+    "badges": {
+      "delivery": "Free delivery in Bratislava",
+      "vat": "VAT-free prices",
+      "guarantee": "Satisfaction guarantee"
+    }
+  },
+  "services": {
+    "sectionTitle": "Our Services",
+    "sectionSubtitle": "Complete care for your home",
+    "regular": {
+      "title": "Apartment Cleaning",
+      "description": "Regular or one-time cleaning for 1 to 6+ room apartments. Includes all rooms, kitchen, and bathroom.",
+      "features": ["Living room & bedrooms", "Kitchen & appliances", "Bathroom & WC", "Vacuuming & floor washing"]
+    },
+    "windows": {
+      "title": "Window Cleaning",
+      "description": "Professional cleaning of all window types — from standard to panoramic and shopfronts.",
+      "features": ["All window types", "Inside & outside", "Shopfronts & balconies", "Radiator panels"]
+    },
+    "additional": {
+      "title": "Additional Services",
+      "description": "Special cleaning beyond standard service — ovens, fridges, ironing, and more.",
+      "features": ["Appliance cleaning", "Dishwashing", "Ironing", "Pet bedding cleaning"]
+    }
+  },
+  "howItWorks": {
+    "sectionTitle": "How It Works",
+    "sectionSubtitle": "Three simple steps to a clean home",
+    "steps": {
+      "1": {
+        "title": "Choose a Service",
+        "description": "Use the calculator to select services and get an estimated price."
+      },
+      "2": {
+        "title": "Send a Request",
+        "description": "Fill in the contact form with your date and address. We'll get back to you within 24 hours."
+      },
+      "3": {
+        "title": "We Clean",
+        "description": "Our team arrives at the agreed time and takes care of your home."
+      }
+    }
+  },
+  "calculator": {
+    "sectionTitle": "Price Calculator",
+    "sectionSubtitle": "Get an estimate for our services",
+    "tabs": {
+      "regular": "Apartment Cleaning",
+      "windows": "Window Cleaning",
+      "additional": "Additional Services"
+    },
+    "windowsOptional": "Optional – click to add",
+    "addonsOptional": "Optional – click to add",
+    "rooms": {
+      "label": "Select apartment size",
+      "1": "1-room",
+      "2": "2-room",
+      "3": "3-room",
+      "4": "4-room",
+      "5": "5-room",
+      "6+": "6+ rooms"
+    },
+    "windowsLabel": "Select window types and enter quantities",
+    "additionalLabel": "Select additional services",
+    "quantity": "pcs",
+    "windows": {
+      "singleM": "Single-wing window \"M\" (up to 80 cm)",
+      "blindM": "Venetian blind \"M\"",
+      "flyScreen": "Fly screen",
+      "singleL": "Single-wing window \"L\" (90–120 cm)",
+      "blindL": "Venetian blind \"L\"",
+      "balconyDoor": "Balcony door",
+      "blindDoor": "Venetian blind for door",
+      "flyScreenDoor": "Fly screen for door",
+      "doubleWing": "Double-wing window",
+      "shopfront": "Shopfront (€/m²)",
+      "tripleM": "Triple-wing window \"M\"",
+      "tripleL": "Triple-wing window \"L\"",
+      "panoramicM": "Panoramic window \"M\" (up to 80 cm)",
+      "panoramicL": "Panoramic window \"L\" (90–120 cm)"
+    },
+    "additional": {
+      "kitchenLine": "Kitchen counter cleaning",
+      "radiators": "Deep radiator cleaning",
+      "fridge": "Fridge cleaning",
+      "freezer": "Freezer cleaning",
+      "balcony": "Balcony / terrace cleaning",
+      "extractor": "Extractor fan cleaning",
+      "oven": "Oven cleaning",
+      "extraHour": "Extra hour",
+      "ironing": "Ironing",
+      "microwave": "Microwave cleaning",
+      "dishes": "Dishwashing",
+      "petBed": "Pet bedding cleaning"
+    },
+    "from": "from",
+    "currency": "€",
+    "total": "Estimated price",
+    "disclaimer": "Final price depends on apartment size, degree of soiling, number of shelves, and other factors.",
+    "noVat": "* Prices exclude VAT. We are not VAT registered.",
+    "cta": "Request This Quote",
+    "nothingSelected": "Please select at least one item",
+    "windowsTotal": "Windows total",
+    "addonsTotal": "Add-ons total",
+    "grandTotal": "TOTAL"
+  },
+  "contact": {
+    "sectionTitle": "Contact Us",
+    "sectionSubtitle": "Send us a request and we'll get back to you within 24 hours",
+    "fields": {
+      "name": "Full name",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "City / Address",
+      "preferredDate": "Preferred date",
+      "message": "Message / Additional information"
+    },
+    "placeholders": {
+      "name": "John Smith",
+      "phone": "+421 9XX XXX XXX",
+      "email": "john@email.com",
+      "address": "Bratislava, Old Town",
+      "message": "Tell us anything we should know..."
+    },
+    "selectedServicesTitle": "Selected Services",
+    "required": "Required field",
+    "invalidEmail": "Invalid email address",
+    "submit": "Send Request",
+    "submitting": "Sending...",
+    "successTitle": "Message sent!",
+    "success": "Thank you! Your message has been sent. We'll get back to you as soon as possible.",
+    "error": "Something went wrong. Please try again or contact us by phone.",
+    "note": "* Free delivery within Bratislava. Parking costs covered by the client.",
+    "trustNote": "We respond to every request within 24 hours. Free delivery within Bratislava.",
+    "trustNoteHighlight": "24 hours"
+  },
+  "footer": {
+    "tagline": "Professional cleaning in Bratislava",
+    "address": "Bratislava, Slovakia",
+    "phone": "+421 XXX XXX XXX",
+    "email": "info@globalclean.sk",
+    "hours": "Mon–Fri: 8:00–18:00",
+    "contactLabel": "Contact",
+    "hoursLabel": "Working hours",
+    "copyright": "© 2026 Global Clean. All rights reserved.",
+    "noVat": "We are not VAT registered."
+  }
+}

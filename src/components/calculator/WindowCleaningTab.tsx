@@ -37,7 +37,7 @@ export function WindowCleaningTab({ items, onQuantityChange }: Props) {
               <div className="flex items-center gap-3">
                 {/* Window illustration */}
                 <div
-                  className="w-14 h-14 flex-shrink-0 rounded-lg flex items-center justify-center"
+                  className="w-14 h-14 flex-shrink-0 rounded-lg flex items-center justify-center [&>svg]:w-full [&>svg]:h-full"
                   style={{ color: isActive ? '#1C72B4' : '#B8D4EA' }}
                 >
                   {Icon ? <Icon /> : (

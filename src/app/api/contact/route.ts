@@ -13,7 +13,7 @@ export async function POST(request: Request) {
     await resend.emails.send({
       from: 'Global Clean <onboarding@resend.dev>',
       to,
-      reply_to: from_email,
+      replyTo: from_email,
       subject: `New booking request from ${from_name}`,
       text: [
         `Name: ${from_name}`,
